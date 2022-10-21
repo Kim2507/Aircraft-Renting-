@@ -1,0 +1,21 @@
+Embraer Phenom 300 [6 passengers, Endurance 4 hours, Bagage capacity 74 foot, Width 5.1ft, Hieght 17.2ft, Length 4.9ft,Speed 495]
+
+Cessna Citation  [7 passengers, Endurance 4:15 hours, Bagage capacity 79 foot, Width 5.5ft, Height 18.6ft, Length 5.7ft,Speed 495]
+
+Cessna Citation Sovereign [8 passengers, Endurance 7:15 hours, Bagage capacity 100 foot, Width 5.5ft, Height 24.2ft, Length 5.7ft,Speed 495]
+
+Cessna Citation Latitude [7 passengers, Endurance 4:15 hours, Bagage capacity 100 foot, Width 6.4ft, Height 21.75ft, Length 6ft,Speed 495]
+
+Bombardier Challenger 350 [9 passengers, Endurance 7:45 hours, Bagage capacity 106 foot, Width 7.17ft, Height 28.6ft, Length 6ft,Speed 540]
+
+Cessna Citation Longtitude [8 passengers, Endurance 7:45 hours, Bagage capacity 112 foot, Width 6.42ft, Height 28.83ft, Length 5.7ft,Speed 547]
+
+Bomberdier Challenge 650 [11 passengers, Endurance 8:45 hours, Bagage capacity 115 foot, Width 7.92ft, Height 45.1ft, Length 6ft,Speed 540]
+
+Gulf Stream G450 [14 passengers, Endurance 9:45 hours, Bagage capacity 169 foot, Width 7.92ft, Height 45.3ft, Length 5.7ft,Speed 495]
+
+Bomberdier Global 5000 [13 passengers, Endurance 11:45 hours, Bagage capacity 195 foot, Width 7.92ft, Height 48ft, Length 5.7ft,Speed 495]
+
+Bomberdier Global 6000 [13 passengers, Endurance 13:30 hours, Bagage capacity 195 foot, Width 7.92ft, Height 59ft, Length 5.7ft,Speed 495]
+
+Bomberdier Global 7500 [14 passengers, Endurance 16 hours, Bagage capacity 195 foot, Width 7.92ft, Height 59ft, Length 5.7ft,Speed 495]
